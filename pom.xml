@@ -15,6 +15,7 @@
       <module>order</module>
       <module>adapter</module>
       <module>facade</module>
+      <module>state</module>
     </modules>
 
 
