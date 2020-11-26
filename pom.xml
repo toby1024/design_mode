@@ -19,6 +19,7 @@
         <module>dip</module>
         <module>state_maction</module>
         <module>strategy</module>
+        <module>singleton</module>
     </modules>
 
     <properties>
