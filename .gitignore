@@ -17,4 +17,5 @@ target/
 .idea/
 .idea/**
 classes/**
+**/.idea/
 ### cofig ###
